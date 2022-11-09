@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); 
+  
+ * { 
+     margin: 0; 
+     padding: 0; 
+ } 
+  
+ .container { 
+     max-width: 80vw; 
+     font-family: 'Open Sans', sans-serif; 
+ } 
+  
+ .navbar { 
+     display: flex; 
+     height: 67px; 
+     background-color: rgb(237, 226, 229); 
+     font-family: 'Open Sans', sans-serif; 
+ } 
+  
+ .navbar li { 
+     list-style: none; 
+     margin: 0 12px; 
+ } 
+  
+ .top-left { 
+     width: 50%; 
+     height: 50vh; 
+ } 
+  
+ .top-right { 
+     width: 50%; 
+     height: 50vh; 
+ } 
+  
+ .section1 { 
+     height: 50vh; 
+ } 
+  
+ .section1 h1 { 
+     color: #37110d; 
+     font-size: 2rem; 
+ } 
+  
+ .logo { 
+     font-size: 1.4rem; 
+ } 
+  
+ .section2 { 
+     padding-left: 63px; 
+     padding-right: 63px; 
+     font-size: 1rem; 
+ } 
+  
+ .textcenter { 
+     text-align: center; 
+ } 
+  
+ .box { 
+     padding: 12px 22px; 
+     min-width: 20vw; 
+     border: 2px solid rgb(236, 228, 228); 
+     text-align: center; 
+ } 
+  
+ .box ul { 
+     list-style-type: none; 
+ } 
+  
+ .box ul li { 
+     margin: 12px 20px; 
+ } 
+  
+ .abc { 
+     background-color: rgb(237, 226, 229); 
+  
+ } 
+  
+ .new { 
+     text-align: center; 
+ } 
+  
+ .img { 
+     display: block; 
+     margin-left: auto; 
+     margin-right: auto; 
+     width: 50%; 
+ } 
+  
+ footer { 
+     padding: 23px; 
+     background-color: rgb(226, 91, 127); 
+     text-align: center; 
+ }
